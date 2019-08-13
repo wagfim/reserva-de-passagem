@@ -26,3 +26,23 @@ Seu aplicativo nunca deve atribuir uma poltrona que já foi reservada. Quando a 
 
 ### Instalação / Execução
 
+Requisitos: [Java Development Kit](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+* Salve o arquivo Main.java em alguma pasta de sua preferência;
+
+* Abra um terminal de comando e navegue até a pasta onde você salvou o arquivo;
+
+* Execute os seguintes comandos:
+
+```
+javac Main.java
+java Main
+```
+
+
+
+
+
+
+
+
